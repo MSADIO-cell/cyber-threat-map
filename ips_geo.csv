@@ -1,0 +1,501 @@
+country,countryCode,city,lat,lon,ip
+Thailand,TH,Phra Phutthabat,14.7261,100.796,1.0.132.44
+Thailand,TH,Sop Moei,17.9621,97.9329,1.1.220.166
+China,CN,Guangzhou,23.1181,113.2539,1.12.55.42
+China,CN,Nanjing,32.0589,118.7738,1.13.156.111
+China,CN,Nanjing,32.0589,118.7738,1.13.79.149
+China,CN,Beijing,30.9523,117.8164,1.14.140.218
+Taiwan,TW,Hualien City,23.9807,121.6115,1.162.194.101
+Taiwan,TW,Taoyuan,24.9977,121.2965,1.163.28.132
+Taiwan,TW,Changhua,24.064,120.55,1.170.208.15
+Taiwan,TW,Tainan,22.9917,120.2148,1.172.102.101
+Thailand,TH,Bang Khen,13.8826,100.6182,1.2.252.192
+Thailand,TH,Bangkok,13.7618,100.5324,1.20.184.8
+Thailand,TH,Bangkok,13.7663,100.6503,1.20.252.234
+China,CN,Beijing,39.9042,116.407,1.203.149.250
+South Korea,KR,Sasang-gu,35.1417,128.999,1.212.225.99
+South Korea,KR,Suwon,37.2963,127.0506,1.214.214.114
+South Korea,KR,Daejeon,36.3566,127.3849,1.215.233.74
+South Korea,KR,Mapo-gu,37.5681,126.8998,1.220.198.126
+South Korea,KR,Anyang-si,37.4027,126.9257,1.222.42.237
+South Korea,KR,Seocho-gu,37.4906,127.0168,1.234.21.73
+South Korea,KR,Seocho-gu,37.4906,127.0168,1.234.27.159
+South Korea,KR,Seocho-gu,37.4906,127.0168,1.234.53.65
+South Korea,KR,Gangnam-gu,37.4854,127.0524,1.234.80.94
+South Korea,KR,Songpa-gu,37.5049,127.1367,1.235.183.146
+South Korea,KR,Gangnam-gu,37.4909,127.0452,1.235.192.214
+South Korea,KR,Yongin-si,37.2447,127.1752,1.238.106.229
+South Korea,KR,Cheonan,36.7881,127.1386,1.247.245.61
+South Korea,KR,Gunsan,35.9812,126.712,1.250.67.114
+South Korea,KR,Gunsan,35.9812,126.712,1.250.67.190
+China,CN,Hohhot,40.8415,111.752,1.26.90.14
+China,CN,Hohhot,40.8415,111.752,1.27.226.158
+India,IN,Ahmedabad,23.0276,72.5871,1.38.235.119
+Vietnam,VN,Hanoi,21.0184,105.8461,1.52.174.174
+Vietnam,VN,Ho Chi Minh City,10.822,106.6257,1.53.196.235
+Hong Kong,HK,Central,22.2836,114.16,1.64.16.166
+China,CN,Xi'an,34.2635,108.9246,1.85.42.195
+China,CN,Beijing,39.9042,116.4073,1.92.80.86
+China,CN,Shanghai,31.2304,121.4737,1.94.62.64
+United States,US,Yonkers,40.9476,-73.8624,100.17.235.133
+United States,US,Brooklyn,40.5948,-73.9715,100.2.217.113
+United States,US,Ashburn,39.04372,-77.48749,100.28.153.226
+United States,US,Ashburn,39.04372,-77.48749,100.31.73.140
+United States,US,Hempstead,40.7041,-73.6184,100.33.23.13
+United States,US,Philadelphia,40.0364,-75.2219,100.34.203.194
+United States,US,Laurel,39.1181,-76.8396,100.36.60.185
+United States,US,The Bronx,40.8622,-73.8902,100.37.223.17
+United States,US,Ashburn,39.04372,-77.48749,100.49.117.77
+United States,US,Ashburn,39.04372,-77.48749,100.53.126.38
+Australia,AU,Sydney,-33.8672,151.1997,101.0.105.22
+Indonesia,ID,Surabaya,-7.27488,112.703,101.0.6.165
+Singapore,SG,Singapore,1.32773,103.746,101.100.194.252
+China,CN,Chaowai,39.9904,116.386,101.126.11.137
+China,CN,Haidian,39.9794,116.338,101.126.129.127
+China,CN,Haidian,39.9794,116.338,101.126.141.163
+China,CN,Haidian,39.9794,116.338,101.126.153.162
+China,CN,Chaowai,39.9904,116.386,101.126.53.14
+China,CN,Chaowai,39.9904,116.386,101.126.55.95
+China,CN,Beijing,39.9042,116.407,101.126.64.76
+China,CN,Beijing,39.9042,116.407,101.126.67.70
+China,CN,Beijing,39.9042,116.407,101.126.70.177
+Taiwan,TW,Taipei,25.0237,121.552,101.13.1.58
+Taiwan,TW,Taipei,25.0237,121.552,101.13.2.176
+Taiwan,TW,Taipei,25.0237,121.552,101.13.2.183
+Taiwan,TW,Taipei,25.0237,121.552,101.13.4.119
+Taiwan,TW,Taipei,25.0237,121.552,101.13.4.120
+Taiwan,TW,Taipei,25.0237,121.552,101.13.5.195
+Taiwan,TW,Taipei,25.0237,121.552,101.13.5.28
+Australia,AU,Sydney,-33.8672,151.1997,101.168.3.207
+Australia,AU,Sydney,-33.8672,151.1997,101.187.203.166
+China,CN,Beijing,39.911,116.395,101.201.38.226
+China,CN,Chengdu,30.5723,104.067,101.205.122.213
+China,CN,Shanghai,31.2304,121.474,101.227.203.162
+China,CN,Pudong,31.2297,121.525,101.231.133.210
+China,CN,Guiyang,26.6475,106.6301,101.245.65.157
+Indonesia,ID,Central Jakarta,-6.1773,106.8519,101.255.123.110
+Hong Kong,HK,Hong Kong,22.3193,114.169,101.32.200.29
+Singapore,SG,Singapore,1.28423,103.852,101.32.240.31
+Hong Kong,HK,Hong Kong,22.3193,114.169,101.32.32.209
+Hong Kong,HK,Lau Fau Shan,22.3135,113.914,101.33.123.172
+China,CN,Shanghai,31.2222,121.4581,101.34.58.213
+Japan,JP,Tokyo,35.6893,139.6899,101.36.104.46
+Hong Kong,HK,Hong Kong,22.3193,114.169,101.36.108.175
+South Korea,KR,Seoul,37.5658,126.978,101.36.114.181
+Hong Kong,HK,Hong Kong,22.3193,114.169,101.36.116.230
+Hong Kong,HK,Hong Kong,22.3193,114.169,101.36.119.203
+Hong Kong,HK,Hong Kong,22.3193,114.169,101.36.119.242
+Hong Kong,HK,Hong Kong,22.3193,114.169,101.36.121.238
+Hong Kong,HK,Hong Kong,22.3193,114.169,101.36.122.129
+United Kingdom,GB,City of London,51.5164,-0.093,101.36.97.88
+China,CN,Hangzhou,30.2943,120.1663,101.37.156.70
+China,CN,Beijing,39.911,116.395,101.42.140.45
+China,CN,Beijing,39.911,116.395,101.42.185.117
+China,CN,Shanghai,31.2222,121.4581,101.43.77.85
+China,CN,Shanghai,31.2222,121.4581,101.43.91.130
+Singapore,SG,Singapore,1.35208,103.82,101.47.134.75
+Singapore,SG,Singapore,1.35208,103.82,101.47.158.56
+Singapore,SG,Singapore,1.352,103.8198,101.47.20.56
+Singapore,SG,Singapore,1.352,103.8198,101.47.28.226
+Singapore,SG,Singapore,1.352,103.8198,101.47.45.28
+Singapore,SG,Singapore,1.352,103.8198,101.47.8.113
+Singapore,SG,Singapore,1.352,103.8198,101.47.8.188
+China,CN,Hangzhou,30.2742,120.155,101.66.165.103
+China,CN,Jiaxing,30.7488,120.7486,101.68.107.179
+China,CN,Nanjing,32.0584,118.796,101.76.244.135
+China,CN,Shanghai,31.2304,121.474,101.89.141.184
+China,CN,Shanghai,31.2304,121.474,101.89.182.189
+China,CN,Shanghai,31.2304,121.474,101.89.76.249
+China,CN,Shanghai,31.2304,121.474,101.91.114.194
+China,CN,Shanghai,31.2304,121.474,101.91.126.150
+China,CN,Haidian,39.9794,116.338,101.96.192.45
+China,CN,Haidian,39.9794,116.338,101.96.193.131
+China,CN,Haidian,39.9794,116.338,101.96.193.145
+China,CN,Haidian,39.9794,116.338,101.96.193.183
+China,CN,Haidian,39.9794,116.338,101.96.195.17
+China,CN,Haidian,39.9794,116.338,101.96.195.253
+China,CN,Haidian,39.9794,116.338,101.96.196.243
+China,CN,Haidian,39.9794,116.338,101.96.197.182
+China,CN,Haidian,39.9794,116.338,101.96.202.144
+China,CN,Haidian,39.9794,116.338,101.96.202.177
+China,CN,Haidian,39.9794,116.338,101.96.202.48
+China,CN,Haidian,39.9794,116.338,101.96.203.141
+China,CN,Haidian,39.9794,116.338,101.96.205.145
+China,CN,Haidian,39.9794,116.338,101.96.208.174
+China,CN,Haidian,39.9794,116.338,101.96.209.234
+China,CN,Haidian,39.9794,116.338,101.96.212.62
+China,CN,Haidian,39.9794,116.338,101.96.214.116
+China,CN,Haidian,39.9794,116.338,101.96.221.200
+China,CN,Haidian,39.9794,116.338,101.96.227.188
+China,CN,Haidian,39.9794,116.338,101.96.229.2
+Kenya,KE,Nairobi,-1.2841,36.8155,102.0.30.6
+Tunisia,TN,Tunis,36.8353,10.2334,102.110.11.48
+Tunisia,TN,Tunis,36.8353,10.2334,102.110.7.34
+Zimbabwe,ZW,Harare,-17.8394,31.0543,102.128.79.90
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.50.203
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.51.105
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.51.130
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.52.109
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.52.194
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.52.245
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.52.77
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.52.89
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.53.102
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.53.160
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.53.227
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.54.173
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.54.184
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.54.207
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.55.161
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.55.206
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.55.83
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.55.91
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.56.168
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.56.175
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.56.241
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.56.38
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.56.53
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.57.89
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.60.192
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.60.232
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.60.61
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.60.79
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.60.89
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.61.58
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.62.161
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.62.164
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.62.187
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.62.3
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.63.120
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.63.139
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.129.63.191
+Ivory Coast,CI,Abidjan,5.3536,-4.0012,102.138.44.245
+Nigeria,NG,Ikoyi,6.45254,3.43584,102.140.97.134
+South Africa,ZA,Johannesburg,-26.2309,28.0583,102.141.123.242
+Ghana,GH,Accra,5.56921,-0.204837,102.177.101.53
+Nigeria,NG,Port Harcourt,4.77819,7.01321,102.204.223.16
+Nigeria,NG,Port Harcourt,4.77819,7.01321,102.204.223.183
+Nigeria,NG,Port Harcourt,4.77819,7.01321,102.204.223.194
+Nigeria,NG,Port Harcourt,4.77819,7.01321,102.204.223.224
+Nigeria,NG,Port Harcourt,4.77819,7.01321,102.204.223.38
+Nigeria,NG,Port Harcourt,4.77819,7.01321,102.204.223.49
+Nigeria,NG,Port Harcourt,4.77819,7.01321,102.204.223.73
+Tanzania,TZ,Dar es Salaam,-6.827,39.2675,102.205.250.49
+Congo (DRC),CD,Kinshasa,-4.33,15.3104,102.206.243.32
+South Africa,ZA,Cape Town,-33.914,18.4129,102.206.93.209
+South Africa,ZA,Cape Town,-34.0594,18.832,102.209.118.155
+Ivory Coast,CI,Abidjan,5.3536,-4.0012,102.209.220.5
+Kenya,KE,Nairobi,-1.2841,36.8155,102.209.76.137
+South Africa,ZA,Johannesburg,-26.2309,28.0583,102.210.146.231
+South Africa,ZA,Johannesburg,-26.2309,28.0583,102.210.148.41
+South Africa,ZA,Johannesburg,-26.2309,28.0583,102.210.148.92
+South Africa,ZA,Johannesburg,-26.2309,28.0583,102.210.149.105
+Libya,LY,Benghazi,32.1159,20.0654,102.211.7.162
+South Africa,ZA,Krugersdorp,-26.0977,27.768,102.213.132.168
+Ethiopia,ET,Addis Ababa,9.0245,38.7485,102.213.71.249
+Reunion,RE,Saint-Denis,-20.8785,55.4485,102.213.9.78
+Mauritania,MR,Nouakchott,18.0858,-15.9785,102.214.208.112
+Ghana,GH,Accra,5.5545,-0.1902,102.216.212.122
+Congo (DRC),CD,Kinshasa,-4.33,15.3104,102.216.240.51
+South Africa,ZA,Emalahleni,-25.866,29.2324,102.217.243.237
+Tanzania,TZ,Dar es Salaam,-6.81697,39.2878,102.217.73.97
+South Africa,ZA,Durban,-29.863,31.0266,102.219.163.46
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.160.138
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.160.141
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.160.143
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.160.144
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.160.146
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.160.148
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.160.173
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.160.47
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.160.67
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.161.104
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.161.119
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.161.170
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.161.171
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.161.173
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.161.174
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.161.207
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.161.79
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.161.85
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.161.86
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.162.137
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.163.245
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.163.246
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.163.248
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.163.249
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.163.250
+Slovenia,SI,Ljubljana,46.0569,14.5058,102.220.163.27
+Nigeria,NG,Abuja,9.07012,7.48706,102.220.45.186
+Ghana,GH,Koforidua,6.09408,-0.25913,102.223.92.101
+Zambia,ZM,Lusaka,-15.4155,28.2773,102.23.122.235
+South Africa,ZA,Cape Town,-33.914,18.4129,102.23.172.145
+Cameroon,CM,Maroua,10.5988,14.3225,102.244.78.57
+Libya,LY,Tripoli,32.8908,13.1796,102.38.3.104
+Libya,LY,Tripoli,32.8908,13.1796,102.38.3.107
+Morocco,MA,Rabat,34.0072,-6.8407,102.53.15.17
+Morocco,MA,Rabat,34.0072,-6.8407,102.53.15.18
+Morocco,MA,Rabat,34.0072,-6.8407,102.53.15.180
+Morocco,MA,Rabat,34.0072,-6.8407,102.53.15.56
+Togo,TG,Lomé,6.1316,1.224,102.64.223.145
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.32.21
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.32.62
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.32.82
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.33.167
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.33.171
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.33.242
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.34.161
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.34.252
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.34.6
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.34.89
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.35.166
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.35.17
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.35.182
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.35.200
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.35.243
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.35.87
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.36.190
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.36.88
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.37.128
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.37.230
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.38.137
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.38.208
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.39.11
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.39.116
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.39.21
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.39.216
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.39.58
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.39.7
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.39.78
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.40.159
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.40.240
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.40.244
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.41.122
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.41.22
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.42.211
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.42.224
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.42.3
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.42.80
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.43.114
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.43.116
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.43.204
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.43.206
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.43.45
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.43.70
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.45.186
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.45.21
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.45.242
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.45.63
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.45.86
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.46.123
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.46.209
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.46.215
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.46.234
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.46.238
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.46.240
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.47.115
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.47.13
+South Africa,ZA,Vanderbijlpark,-26.7005,27.8179,102.64.47.27
+South Africa,ZA,Humansdorp,-34.029,24.7691,102.66.147.15
+South Africa,ZA,Kroonstad,-27.6504,27.2349,102.66.152.109
+Nigeria,NG,Ikeja,6.5885,3.3406,102.67.16.10
+Zambia,ZM,Lusaka,-15.4183,28.287,102.67.160.18
+Nigeria,NG,Lagos,6.4474,3.3903,102.88.137.145
+Nigeria,NG,Lagos,6.4474,3.3903,102.88.137.213
+Nigeria,NG,Lagos,6.4474,3.3903,102.88.137.80
+Morocco,MA,Tangier,35.7758,-5.7909,102.97.196.136
+Thailand,TH,Samut Sakhon,13.5475,100.274,103.10.228.91
+Indonesia,ID,Barru,-4.60771,119.594,103.100.84.79
+India,IN,Gurugram,28.4597,77.0282,103.101.103.40
+India,IN,Meerut,28.9834,77.706,103.101.117.73
+India,IN,Guwahati,26.1885,91.7392,103.103.53.44
+India,IN,Puducherry,11.9327,79.8339,103.104.127.134
+India,IN,Puducherry,11.9327,79.8339,103.104.127.16
+India,IN,Puducherry,11.9327,79.8339,103.104.127.18
+India,IN,Puducherry,11.9327,79.8339,103.104.127.219
+India,IN,Puducherry,11.9327,79.8339,103.104.127.49
+Indonesia,ID,Cikarang,-6.26111,107.153,103.105.197.2
+India,IN,Nagpur,21.1306,79.0951,103.106.100.184
+India,IN,Ghaziabad,28.6661,77.4291,103.106.154.15
+Hong Kong,HK,Ho Man Tin,22.3199,114.174,103.108.67.180
+India,IN,Pune,18.5211,73.8502,103.109.13.50
+India,IN,Gwalior,26.2085,78.2008,103.109.178.15
+India,IN,Gwalior,26.2085,78.2008,103.109.178.29
+India,IN,Gwalior,26.2085,78.2008,103.109.178.59
+India,IN,Erode,11.3458,77.7334,103.110.237.98
+Indonesia,ID,Bogor,-6.7203,106.8143,103.112.5.28
+Indonesia,ID,Bekasi,-6.2727,106.9404,103.112.5.35
+Bangladesh,BD,Natore,24.4111,88.9867,103.112.54.86
+Nepal,NP,Dullu,28.82,81.5829,103.114.27.236
+Bangladesh,BD,Dohār,23.6407,90.1102,103.115.240.9
+Bangladesh,BD,Savar Upazila,23.8486,90.25,103.115.255.66
+Hong Kong,HK,Hong Kong,22.3193,114.169,103.115.56.179
+Hong Kong,HK,San Po Kong,22.3366,114.197,103.117.145.130
+India,IN,Navi Mumbai,19.0336,73.0118,103.118.17.13
+Cambodia,KH,Phnom Penh,11.5583,104.9121,103.118.47.214
+India,IN,Ropar,30.9695,76.5324,103.118.50.227
+Indonesia,ID,Cikarang,-6.26111,107.153,103.118.82.254
+India,IN,Jaipur,26.9136,75.7858,103.119.79.186
+Cambodia,KH,Phnom Penh,11.5466,104.922,103.119.97.179
+Pakistan,PK,Model Town,32.4926,74.6124,103.12.197.122
+India,IN,Shirwal,18.1506,73.9779,103.120.236.123
+India,IN,Hyderabad,17.3843,78.4583,103.120.51.183
+Indonesia,ID,Muting,-7.30759,140.558,103.120.66.229
+Indonesia,ID,West Jakarta,-6.1368,106.7763,103.121.247.44
+India,IN,Thiruvananthapuram,8.4832,76.9458,103.121.27.218
+India,IN,Mumbai,19.0748,72.8856,103.123.234.219
+India,IN,Mumbai,19.1189,72.9124,103.123.53.88
+Indonesia,ID,East Jakarta,-6.2454,106.8953,103.123.71.86
+Vietnam,VN,Phu Do,21.0039,105.779,103.127.207.14
+Vietnam,VN,Ho Chi Minh City,10.822,106.6257,103.129.127.170
+Japan,JP,Tsukuba,36.0582,140.138,103.13.19.219
+Singapore,SG,Singapore,1.2757,103.846,103.13.206.100
+Singapore,SG,Singapore,1.2757,103.846,103.13.206.152
+Indonesia,ID,North Jakarta,-6.1804,106.9038,103.130.18.242
+Indonesia,ID,Karawang,-6.3088,107.316,103.132.239.22
+India,IN,Bhubaneswar,20.2706,85.8334,103.132.243.250
+Singapore,SG,Singapore,1.2757,103.846,103.134.154.235
+India,IN,Mumbai,19.0748,72.8856,103.135.62.229
+Vietnam,VN,Quận Bình Thạnh,10.8043,106.71,103.14.48.254
+India,IN,Kākināda,16.9616,82.2326,103.140.18.186
+Indonesia,ID,Cirebon,-6.73516,108.534,103.140.22.66
+Hong Kong,HK,LOHAS Park,22.2945,114.27,103.140.228.33
+Vietnam,VN,Quận Một,10.7776,106.702,103.142.25.23
+United States,US,Los Angeles,34.0549,-118.243,103.143.10.140
+Hong Kong,HK,Kwai Chung,22.3646,114.133,103.143.231.24
+Hong Kong,HK,Mong Kok,22.3163,114.171,103.143.239.201
+Nepal,NP,Bidur,27.9338,85.1582,103.144.106.72
+Hong Kong,HK,Mong Kok,22.3193,114.169,103.144.3.181
+Vietnam,VN,Mai Dich,21.031,105.783,103.145.63.218
+Hong Kong,HK,Sheung Wan,22.2871,114.152,103.146.159.173
+Indonesia,ID,Cicurug,-6.84206,106.724,103.146.202.84
+Vietnam,VN,Tây Mỗ,20.9999,105.742,103.146.23.180
+India,IN,Firozabad,27.1509,78.3978,103.146.232.254
+India,IN,Firozabad,27.1509,78.3978,103.146.233.154
+India,IN,Firozabad,27.1509,78.3978,103.146.233.203
+Indonesia,ID,Karawang,-6.3956,107.3986,103.146.38.101
+Hong Kong,HK,Mong Kok,22.3205,114.168,103.146.52.157
+Indonesia,ID,Cikupa,-6.27836,106.494,103.147.159.196
+India,IN,Guwahati,26.1885,91.7392,103.147.248.23
+India,IN,Guwahati,26.1885,91.7392,103.147.248.44
+Bangladesh,BD,Naogaon,24.8042,88.9488,103.148.108.83
+Vietnam,VN,Ho Chi Minh City,10.8231,106.63,103.149.86.228
+Vietnam,VN,Dương Nội,20.9799,105.744,103.15.223.1
+Laos,LA,Vientiane,17.9705,102.637,103.150.74.10
+Pakistan,PK,Lahore,31.5826,74.3276,103.151.47.90
+Pakistan,PK,Lahore,31.558,74.3587,103.152.100.75
+Bangladesh,BD,Kafrul,23.7882,90.3736,103.154.158.60
+Myanmar,MM,Yangon,16.7964,96.1667,103.154.241.42
+Vietnam,VN,Giảng Võ,21.0336,105.807,103.154.62.14
+Vietnam,VN,Giảng Võ,21.0336,105.807,103.154.62.39
+Vietnam,VN,Giảng Võ,21.0336,105.807,103.154.62.40
+Indonesia,ID,Sleman,-7.7549,110.2909,103.154.77.48
+Indonesia,ID,Probolinggo,-7.7543,113.216,103.155.47.50
+India,IN,Bengaluru,12.9734,77.6157,103.156.18.36
+Indonesia,ID,Indramayu,-6.32639,108.32,103.158.121.4
+India,IN,Varanasi,25.315,83.0058,103.158.131.254
+India,IN,Mumbai,19.0748,72.8856,103.158.138.179
+India,IN,Pune,18.4616,73.8169,103.158.54.95
+Indonesia,ID,Karangmulya,-7.2073,107.929,103.158.96.103
+Indonesia,ID,Marisgama,-8.9117,117.684,103.159.199.43
+Vietnam,VN,Yên Xá,20.9668,105.795,103.159.54.61
+India,IN,Bengaluru,12.9753,77.591,103.16.71.181
+Indonesia,ID,Gerung,-8.683,116.125,103.160.205.37
+Vietnam,VN,Ho Chi Minh City,10.822,106.6257,103.162.21.212
+India,IN,Alandi,18.6776,73.8987,103.163.106.146
+Vietnam,VN,Khương Đình,20.9878,105.814,103.163.118.115
+Indonesia,ID,Bojonegoro,-7.1502,111.882,103.163.13.14
+India,IN,Noida,28.5759,77.3345,103.163.167.94
+Vietnam,VN,Phú Lâm,20.9388,105.756,103.163.214.149
+Vietnam,VN,Phú Lâm,20.9388,105.756,103.163.215.131
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.100
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.122
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.57
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.60
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.61
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.81
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.84
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.89
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.91
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.94
+Japan,JP,Tokyo,35.6836,139.7492,103.163.220.97
+India,IN,Gangavalli,11.4944,78.6537,103.163.44.10
+Vietnam,VN,Tân Thuận Đông,10.7702,106.742,103.164.35.51
+India,IN,Jalandhar,31.33,75.5844,103.165.106.68
+India,IN,Hyderabad,17.3843,78.4583,103.165.116.243
+Indonesia,ID,Jimbaran,-8.79093,115.16,103.165.207.82
+Indonesia,ID,West Jakarta,-6.2167,106.7316,103.165.227.178
+Indonesia,ID,Surabaya,-7.24917,112.751,103.165.41.114
+Bangladesh,BD,Nagar Naluakot,24.1561,90.7728,103.166.253.30
+India,IN,Ahmedabad,23.012,72.5284,103.168.18.141
+India,IN,Bahadurgarh,28.6929,76.9356,103.168.2.122
+India,IN,Bilaspur,31.3399,76.7642,103.168.234.22
+India,IN,Tirupur,11.1076,77.3561,103.168.241.32
+Hong Kong,HK,Mong Kok,22.3204,114.17,103.17.118.193
+Hong Kong,HK,Mong Kok,22.3204,114.17,103.17.119.248
+India,IN,Revadanda,18.5536,72.9256,103.17.12.212
+India,IN,Revadanda,18.5536,72.9256,103.17.12.27
+Pakistan,PK,Rawalpindi,33.5973,73.0479,103.170.179.224
+India,IN,Gurugram,28.4597,77.0282,103.170.191.243
+India,IN,Kollam,8.8814,76.585,103.170.55.0
+India,IN,Namakkal,11.2187,78.2273,103.171.12.114
+India,IN,Jasdan,22.0356,71.2018,103.171.39.147
+Bangladesh,BD,Dhaka,23.8191,90.366,103.171.69.182
+Bangladesh,BD,Dhaka,23.8191,90.366,103.171.69.66
+Bangladesh,BD,Dhaka,23.8191,90.366,103.171.69.84
+Bangladesh,BD,Dhaka,23.8191,90.366,103.171.69.85
+Bangladesh,BD,Dhaka,23.8191,90.366,103.171.69.94
+India,IN,Lūnāvāda,23.1312,73.6176,103.172.11.167
+Bangladesh,BD,Jessore,23.162,89.2122,103.172.113.196
+Vietnam,VN,Đống Đa,21.0113,105.822,103.172.236.15
+Vietnam,VN,Đống Đa,21.0113,105.822,103.172.236.241
+Bangladesh,BD,Thakurgaon,26.031,88.4699,103.172.28.62
+India,IN,Mumbai,19.0748,72.8856,103.172.95.122
+Indonesia,ID,Kotaagung,-5.49415,104.622,103.173.138.123
+Indonesia,ID,Brak,-7.55917,109.22,103.173.140.185
+India,IN,Nashik,19.9629,73.7679,103.174.102.245
+Bangladesh,BD,Tongi,23.8915,90.4023,103.174.225.77
+Indonesia,ID,Tangerang,-6.17806,106.63,103.174.238.9
+India,IN,New Delhi,28.6327,77.2198,103.174.243.212
+India,IN,Thane,19.1963,72.9675,103.174.34.49
+Indonesia,ID,Bekasi,-6.2349,106.99,103.174.64.201
+India,IN,Bhongīr,17.512,78.8893,103.174.80.40
+India,IN,Kalyān,19.2463,73.1315,103.176.160.146
+Vietnam,VN,Quỳnh Lôi,20.9667,105.867,103.176.20.115
+Vietnam,VN,Ho Chi Minh City,10.8282,106.632,103.177.111.164
+Bangladesh,BD,Jamalpur,24.927,89.948,103.177.151.93
+Bangladesh,BD,Chittagong,22.3384,91.8317,103.177.168.247
+India,IN,Kalyān,19.2463,73.1315,103.179.3.21
+India,IN,Chennai,13.0895,80.2739,103.179.95.103
+Indonesia,ID,South Jakarta,-6.2574,106.8453,103.180.123.42
+India,IN,Bathinda,30.206,74.9302,103.181.174.230
+India,IN,Solapur,17.6652,75.9144,103.181.201.75
+India,IN,Kanpur,26.3934,80.3283,103.181.81.150
+Nepal,NP,Birendranagar,28.5967,81.6166,103.182.174.32
+Indonesia,ID,West Jakarta,-6.181,106.7739,103.182.231.122
+Indonesia,ID,West Jakarta,-6.181,106.7739,103.182.235.156
+Bangladesh,BD,Mātuail,23.7121,90.4598,103.183.62.3
+Indonesia,ID,Cinangka,-6.37835,106.778,103.184.128.247
+Indonesia,ID,Sukabumi,-6.92716,106.93,103.186.1.59
+Indonesia,ID,Jakarta,-6.19393,106.822,103.187.147.214
+Indonesia,ID,South Tangerang,-6.2873,106.7537,103.187.165.26
+India,IN,Hyderabad,17.4178,78.4614,103.187.78.189
+India,IN,Pathankot,32.2827,75.6497,103.187.84.130
+Vietnam,VN,Sơn Trà,16.0439,108.244,103.189.208.13
+Singapore,SG,Singapore,1.35208,103.82,103.189.234.85
+India,IN,New Delhi,28.6139,77.2088,103.189.89.145
+Indonesia,ID,Sendangagung,-6.8994,112.346,103.19.78.119
+Bangladesh,BD,Dhaka,23.8041,90.4152,103.191.158.193
+Indonesia,ID,Jakarta Pusat,-6.18559,106.823,103.191.17.155
+India,IN,Pune,18.5211,73.8502,103.191.204.229
+India,IN,Indore,22.717,75.8337,103.192.199.245
+Indonesia,ID,Bandung,-6.9221,107.6086,103.194.172.222
+India,IN,Coimbatore,11.0102,76.9701,103.194.243.199
+Vietnam,VN,Quận Bình Thạnh,10.8105,106.707,103.195.236.196
+Vietnam,VN,Quận Bình Thạnh,10.8105,106.707,103.195.236.35
+Vietnam,VN,Quận Bình Thạnh,10.8105,106.707,103.195.237.134
+Vietnam,VN,Quận Bình Thạnh,10.8105,106.707,103.195.238.14
+Sweden,SE,Stockholm,59.4016,17.9455,103.197.150.165
+Pakistan,PK,Lahore,31.558,74.3587,103.198.154.134
+Bangladesh,BD,Begumganj,23.022,91.0719,103.199.109.103
+Vietnam,VN,Vinhomes Times City,20.9959,105.869,103.199.18.15
